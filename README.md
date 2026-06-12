@@ -49,8 +49,6 @@ While the transactional database perfectly captures *what* and *when* things are
 
 ---
 ### Built With
-*   **SQL** - Data Extraction & Financial Integrity Cleaning
-*   **SQL** - Data Aggregation and Trend Analysis
-*   **Markdown** - Executive Reporting
-
+*   **SQL** - Data Extraction & Financial Integrity Cleaning, Data Aggregation and Trend Analysis
+  
 *Analysis by Chung Yok — April 2026*
