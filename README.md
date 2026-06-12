@@ -1,4 +1,4 @@
-# TradeZone Performance Review & 2025 Strategy Planning 🚀
+# TradeZone Performance Review & 2025 Strategy Planning 
 
 **An executive data analysis on growth, seller bottlenecks, and revenue retention for TradeZone Nigeria.**
 
